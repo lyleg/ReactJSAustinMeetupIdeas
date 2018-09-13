@@ -17,3 +17,5 @@ Immutable data structures and React
 React Animation best practices
 
 Webpack and code splitting
+
+Form Validation best practices
